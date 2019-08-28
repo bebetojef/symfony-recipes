@@ -1,0 +1,13 @@
+nyu_langone_epic:
+    service_endpoint: "<end_point>"
+    auth_user: "<auth_user>"
+    auth_pass: "<auth_pass>"
+    audit_user: "<audit_user>"
+    auth_soap_user: "<auth_soap_user>"
+    audit_pass: "<audit_pass>"
+    scheduling_user: "<scheduling_user>"
+    feature_insurance: true
+    client_id: "<client_id>"
+    new_patient_visit_type_key: "<new_patient_visit_type_key>"
+    new_patient_physical_visit_type_key: "<new_patient_physical_visit_type_key>"
+    new_patient_gyn_yearly_visit_type_key: "<new_patient_gyn_yearly_visit_type_key>"
